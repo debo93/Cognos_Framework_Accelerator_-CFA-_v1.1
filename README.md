@@ -21,6 +21,6 @@ This Code base is written using python 2.7. It basically accelerates the creatio
 
 ## Then give the inputs in the Input Folder : 
         2.1. Input_parameters.py : metadata path, project name, database name, schema name, report studio path
-        2.2. <Input_metadata_file>.csv : table names, column names, data type, precision, scale, alias/business name of columns,        relationships between the tables, subjects areas of the table, table description, column usage properties. 
+        2.2. <Input_metadata_file>.csv : table names, column names, data type, precision, scale, alias/business name of columns,relationships between the tables, subjects areas of the table, table description, column usage properties. 
 
 ## If the metadata and the input parameters file is properly filled and validated, run the .exe file and the package will be generated along with some customizables included in the package.
