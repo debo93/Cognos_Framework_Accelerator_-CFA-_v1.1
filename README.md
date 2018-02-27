@@ -3,4 +3,19 @@ This Code base is written using python 2.7. It basically accelerates the creatio
 
 Steps to work with the Code Package : 
 
-1. First Create the Folder Structure as depicted in the 
+1. First Create the Folder Structure as depicted in the .PNG File.
+2. Following is the Folder Structure and it's components : 
+        
+        CFA_v1.1
+          |
+          |--- Code_Base
+          |       |---Cognos_Metadata_Generator.xlsm
+          |       |---CSA_v1.1.pyc
+          |
+          |--- Input
+          |       |---Input_parameters.py
+          |       |--- <Input_metadata_file>.csv
+          |--- Output (Here you will get the output along with timestamp added to each output)
+          |
+          |--- CSA v1.1.exe
+          
