@@ -5,7 +5,7 @@ This Code base is written using python 2.7. It basically accelerates the creatio
 
 ## First Create the Folder Structure as depicted below :
 
-        CFA_v1.1
+        CFMA_v1.1
           |
           |--- Code_Base
           |       |---Cognos_Metadata_Generator.xlsm
