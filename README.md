@@ -15,6 +15,7 @@ Steps to work with the Code Package :
           |--- Input
           |       |---Input_parameters.py
           |       |--- <Input_metadata_file>.csv
+          |
           |--- Output (Here you will get the output along with timestamp added to each output)
           |
           |--- CSA v1.1.exe
